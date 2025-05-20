@@ -1,0 +1,39 @@
+
+
+@media (max-width: 768px) {
+    .login-container {
+        width: 98vw;
+        height: 75vh;
+        padding: 30px 15px;
+        margin: 15% auto;
+    }
+
+    .formulario {
+        padding: 15px;
+        margin: 5%;
+    }
+
+    .imguserinput, .imgpasswordinput {
+        width: 16px;
+    }
+
+    input {
+        font-size: 0.9em;
+        padding-left: 2em;
+    }
+
+    #botao {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    .imgusercenter {
+        width: 50%;
+    }
+
+    input, #botao {
+        font-size: 0.85em;
+
+    }
+}
