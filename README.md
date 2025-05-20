@@ -35,5 +35,5 @@ Mesmo sendo um exercício, é um marco importante na minha jornada como desenvol
 -----------------------------------
 
 - Como visualizar
- Clone o repositório
-   git clone https://github.com/ghatsch/tela-login.git
+  
+ Clone o repositório -> git clone https://github.com/ghatsch/tela-login.git
